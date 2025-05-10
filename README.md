@@ -7,13 +7,13 @@ Apaixonado por tecnologia, inovação e resolver problemas com código.
 
 ## 🚀 Sobre mim
 
-Olá! Meu nome é Gabriel, tenho 22 anos, nascido e criado o em **Ipatinga - MG**. Trabalho na **Techint Engenharia e Construção**, uma empresa do setor industrial, onde atuo com **análise de dados referente a obra**, elaboração de **dashboards**, e também em projetos de **desenho técnico**, incluindo **tubulação, diagramas e planos de rigging**.
+Olá! Meu nome é Gabriel, tenho 22 anos, nascido e criado em **Ipatinga - MG**. Trabalho na **Techint Engenharia e Construção**, uma empresa do setor industrial, onde atuo com **análise de dados referente a obra**, elaboração de **dashboards** e também em projetos de **desenho técnico**, incluindo **tubulação, diagramas e planos de rigging**.
 
 Apesar de gostar muito da área industrial, minha verdadeira paixão é a **programação**. Estou cursando **Engenharia de Software pela Uninter** e costumo estudar por fora atraves de cursos — principalmente na platforma da **DIO**, onde busco me aperfeiçoar como futuro desenvolvedor.
 
 Tenho familiaridade com linguagens e tecnologias como **HTML, CSS, JS, Java, Python e etc**, além de diversos bancos de dados como **MySQL, MongoDB e Neo4j**.
 
-Sou movido por curiosidade e aprendizado: quando algo me interessa, aprendo rápido e me aprofundo com dedicação.
+Sou movido por curiosidade e aprendizado e quando algo me interessa, aprendo rápido e me aprofundo com dedicação.
 
 ### ⚖️ Hobbies
 
@@ -55,7 +55,7 @@ Se você curte tecnologia, engenharia e inovação, bora trocar uma ideia!
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-martins-aaa6631a1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-martins11aa32e46)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gabrielaugustoh/) 
 
 📫 Email: Gabriel.augusto136@hotmail.com
