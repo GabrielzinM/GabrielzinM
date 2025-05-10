@@ -55,7 +55,7 @@ Se você curte tecnologia, engenharia e inovação, bora trocar uma ideia!
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-martins11aa32e46)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-aaa6631a1/?trk=public-profile-join-page)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gabrielaugustoh/) 
 
 📫 Email: Gabriel.augusto136@hotmail.com
