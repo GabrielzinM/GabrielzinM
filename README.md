@@ -48,12 +48,11 @@
 ## 📊 DUNGEON STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielzinM&show_icons=true&theme=tokyonight&count_private=true&title_color=8A2BE2&icon_color=8A2BE2"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinM&layout=compact&theme=tokyonight&title_color=8A2BE2"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielzinM&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielzinM&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinM&layout=compact&theme=tokyonight" />
 </p>
 
 ---
