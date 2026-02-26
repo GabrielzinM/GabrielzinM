@@ -47,13 +47,26 @@
 
 ## 📊 DUNGEON STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielzinM&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielzinM&layout=compact&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td>
+
+### 🧬 SYSTEM STATUS
+**Hunter:** GabrielzinM  
+**Rank:** E ➜ S  
+**Guild:** Full Stack  
+**Title:** System Breaker  
+
+**Daily Routine:**  
+✅ Study • ✅ Code • ✅ Ship • ✅ Repeat  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
