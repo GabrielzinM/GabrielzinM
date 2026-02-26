@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DO_SEU_BANNER_AQUI" width="100%" />
+  <img src="upup.png" width="100%" />
 </p>
 
 <h1 align="center">⚔️ Gabriel Martins ⚔️</h1>
