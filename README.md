@@ -21,19 +21,19 @@
 ## 📊 ATTRIBUTES
 
 🧠 Intelligence  
-![Intelligence](https://progress-bar.dev/92/?width=500&color=8A2BE2)
+![Intelligence](https://img.shields.io/badge/Intelligence-92%25-8A2BE2?style=for-the-badge)
 
 💻 Coding Skill  
-![Coding](https://progress-bar.dev/88/?width=500&color=7B1FA2)
+![Coding](https://img.shields.io/badge/Coding-88%25-7B1FA2?style=for-the-badge)
 
 ⚡ Discipline  
-![Discipline](https://progress-bar.dev/85/?width=500&color=6A0DAD)
+![Discipline](https://img.shields.io/badge/Discipline-85%25-6A0DAD?style=for-the-badge)
 
 🔥 Consistency  
-![Consistency](https://progress-bar.dev/90/?width=500&color=9400D3)
+![Consistency](https://img.shields.io/badge/Consistency-90%25-9400D3?style=for-the-badge)
 
 🗡️ Problem Solving  
-![ProblemSolving](https://progress-bar.dev/93/?width=500&color=8A2BE2)
+![ProblemSolving](https://img.shields.io/badge/Problem%20Solving-93%25-8A2BE2?style=for-the-badge)
 
 ---
 
