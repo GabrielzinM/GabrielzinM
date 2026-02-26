@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_AQUI" alt="banner" />
+  <img src="upup.png" alt="banner" />
 </p>
 
 <h1 align="center">⚔️ GabrielzinM — Hunter Dev ⚔️</h1>
