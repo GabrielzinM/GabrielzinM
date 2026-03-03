@@ -1,79 +1,88 @@
-# Gabriel Martins
+<h1 align="center">Gabriel Martins</h1>
 
-Engineering mindset applied to software.
-
-I am a Software Engineering student focused on building real-world solutions. 
-My background in planning, analytics and performance control shapes how I design systems: structured, scalable and product-oriented.
-
-Currently working on:
-- 🚀 A SaaS product (architecture, authentication, database modeling and scalability)
-- 🤖 An educational chatbot project (Seu Guia ENEM)
-- 🔗 REST API development with Java + Spring Boot
-- 🌐 Web applications with clean UI and structured code
+<p align="center">
+Desenvolvedor em formação | Mentalidade Analítica | Construindo Produtos Reais
+</p>
 
 ---
 
-## Featured Projects
+## 👨‍💻 Sobre Mim
 
-### 🚀 SaaS Project (In Progress)
-Building a scalable SaaS application with focus on:
-- Clean architecture
-- Authentication & authorization
-- Database modeling
-- Real-world business logic
-- Future deployment and production mindset
+Sou estudante de Engenharia de Software com experiência anterior em planejamento, controle e análise de indicadores.
 
-> This project represents my evolution from student to product-oriented developer.
+Minha forma de desenvolver software é estruturada, estratégica e orientada a produto.  
+Não foco apenas em código, mas em solução real.
 
----
+Atualmente estou desenvolvendo:
 
-### 🤖 Seu Guia ENEM (Educational Chatbot)
-An educational chatbot designed to help students with ENEM-related questions.
-Focused on:
-- UX and accessibility
-- Clear information architecture
-- Practical problem-solving
+- 🚀 Plataforma SaaS de gerenciamento de treinos
+- 🤖 Chatbot educacional com IA generativa
+- 🔗 APIs REST com Java + Spring Boot
+- 🌐 Aplicações web com arquitetura organizada
 
 ---
 
-### 🔗 API Development – Java + Spring Boot
-RESTful API project built with:
-- Spring Boot
-- Layered architecture
-- CRUD operations
-- Clean separation of concerns
+## 🚀 Projeto Principal – Fitness SaaS (Em Desenvolvimento)
+
+Plataforma de gerenciamento de treinos com foco em performance e consistência.
+
+### Principais funcionalidades:
+
+- Controle de frequência semanal
+- Sistema de streak (sequência de treinos)
+- Gerador de treinos baseado em objetivo:
+  - Ganho de massa
+  - Emagrecimento
+  - Saúde e condicionamento
+- Estrutura preparada para:
+  - Autenticação
+  - Banco de dados
+  - Dashboard de progresso
+  - Escalabilidade futura
+
+Este projeto representa minha evolução para desenvolvimento orientado a produto.
 
 ---
 
-### 📊 Data & Automation Projects
-Python-based data analysis and automation experiments.
-Applying logic, structure and real-world problem-solving.
+## 🛠 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,html,css,js,git,github" />
+</p>
 
 ---
 
-## Tech Stack
+## 📚 Atualmente Estudando
 
-- Java (Spring Boot)
-- HTML, CSS, JavaScript
-- Python
-- Git & GitHub
-- Excel & Data Dashboards
-- Database modeling
-
----
-
-## What Defines Me
-
-- Structured thinking
-- Product vision
-- Continuous improvement
-- Practical learning approach
-- Discipline and consistency
+- Arquitetura de Software
+- Estruturação de APIs
+- Modelagem de banco de dados
+- Boas práticas de backend
+- Deploy e ambientes de produção
 
 ---
 
-## Contact
+## 📈 Roadmap Profissional 2026
 
-LinkedIn: www.linkedin.com/in/gabriel-martins11aa32e46
-Portfolio: 
-Email: gabriel.augusto136@hotmail.com
+- [ ] Finalizar e publicar o SaaS
+- [ ] Deploy do chatbot em produção
+- [ ] Criar projeto completo com autenticação e banco relacional
+- [ ] Aprimorar arquitetura backend
+- [ ] Conquistar primeira oportunidade como desenvolvedor
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielzinm&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzinm&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Contato
+
+LinkedIn: 
+Portfólio: 
+Email: 
