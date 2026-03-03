@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/meo[](url).png" alt="Gabriel Martins Banner" width="900">
+</p>
+
 <h1 align="center">Gabriel Martins</h1>
 
 <p align="center">
